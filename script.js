@@ -2,7 +2,7 @@ const firstInputEl = document.getElementById("firstNumber");
 const secondInputEl = document.getElementById("secondNumber");
 const selectEl = document.getElementById("operations");
 const resultSpanEl = document.getElementById("result");
-
+const result = 1;
 
 const formEl = document.getElementById("form");
 formEl.addEventListener("submit", (event) => {
